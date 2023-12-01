@@ -1,0 +1,2 @@
+// Inject weapons array
+926, exe, 0x80089b6c, 0x0, assets/weapons.bin
